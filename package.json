@@ -1,0 +1,32 @@
+{
+  "name": "lanceraccountlinker",
+  "version": "0.1.0",
+  "description": "A discord bot for Lancer Networks to enable account linking between Discord and In-game",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fs": "^0.0.1-security",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeraxonHD/LNAccountLinker.git"
+  },
+  "keywords": [
+    "Lancer",
+    "Networks",
+    "Account",
+    "Linker"
+  ],
+  "author": "Veraxon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VeraxonHD/LNAccountLinker/issues"
+  },
+  "homepage": "https://github.com/VeraxonHD/LNAccountLinker#readme"
+}
